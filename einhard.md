@@ -48,7 +48,7 @@ This office, then, was handed down from his father and his grandfather to Pippin
 
 [13]
 
-# Part I: His Exploits at Home and Abroad
+## Part I: His Exploits at Home and Abroad
 
 5\. Of all the wars that he waged that in Aquitania, begun, but not finished, by his father, was the first that he undertook, because it seemed easy of accomplishment. His brother was still alive, and was called upon for assistance, and, though he failed to provide the help that he promised, Charles prosecuted the enterprise that he had undertaken with the utmost energy, and would not desist or slacken in his task before, by perseverance and continuous effort, he had completely reached the end after which he strove. For he forced Hunold,[^15] who after the death of Waifar had attempted to occupy Aquitania and renew the almost finished war, to abandon Aquitania and retire into Gascony. Even there he did not allow him to remain, but crossed the Garonne, and sent ambassadors to Lupus, Duke of the Gascons, ordering him to surrender the fugitive, [14] and threatening him with war unless he did so at once. Lupus, more wisely, not only surrendered Hunold but also submitted himself and the province over which he presided to the power of Charles.
 
