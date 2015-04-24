@@ -857,9 +857,13 @@ NOTES
 
 .. [41.5] This reference to Greek at the Court of Charlemagne is interesting in view of the exaggerated views sometimes held on the disappearance of Greek in the Middle Ages.
 
-.. [41.14] This is Alcuin of York, one of the greatest of Englishmen, undoubtedly, as Eginhard says, the most learned man of his time. His letters form a valuable source of information for the inner life of Charlemagne and his Court.
+.. [41.14] This is Alcuin of York, one of the greatest of Englishmen; undoubtedly, as Eginhard says, the most learned man of his time. His letters form a valuable source of information for the inner life of Charlemagne and his Court.
 
-.. [41.21] This passage has been closely scrutinised and commented on. Do Eginhard’s words imply that Charlemagne could not write at all? This seems a very improbable interpretation of them. *Parum successit* would rather mean that “he made but little headway.” It may well be that the King was able to write roughly and in an ordinary way but failed to acquire the elegant and delicate caligraphy that was aimed at by the scribes of the time.
+.. Original: ‘greatest of Englishmen,’
+
+.. [41.21] This passage has been closely scrutinised and commented on. Do Eginhard’s words imply that Charlemagne could not write at all? This seems a very improbable interpretation of them. *Parum successit* would rather mean that “he made but little headway.” It may well be that the King was able to write roughly and in an ordinary way but failed to acquire the elegant and delicate calligraphy that was aimed at by the scribes of the time.
+
+.. Original: ‘caligraphy’
 
 .. [44.8] Eginhard passes very lightly over these epoch-making events of Christmas Day in the year 800, when the imperial title was again assumed by a ruler of the West, and the Mediæval Empire was launched with all its vast consequences, both for the theory and practice of the Middle Ages.
 
