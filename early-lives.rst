@@ -92,14 +92,14 @@ Early Lives of Charlemagne
 
 [pg vii]
 
-.. container:: titlepage justify white-space-pre-line xx-large
+.. container:: titlepage justify white-space-pre-line
 
-    EARLY LIVES OF
-    CHARLEMAGNE BY
-    EGINHARD AND THE
-    MONK OF ST GALL
-    EDITED BY PROF.
-    A. J. GRANT
+    :xxl:`EARLY LIVES OF`
+    :xxl:`CHARLEMAGNE BY`
+    :xxl:`EGINHARD AND THE`
+    :xxl:`MONK OF ST GALL`
+    :xxl:`EDITED BY PROF.`
+    :xxl:`A. J. GRANT`
 
     .. vfill::
 
