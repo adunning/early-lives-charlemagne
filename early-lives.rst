@@ -55,11 +55,12 @@ Early Lives of Charlemagne
 
 .. clearpage::
 
-[pg i]
+.. \[pg i]
 
 .. figure:: images/kings-classics.jpeg
    :figclass: illustration
    :alt: The King’s Classics
+   :figwidth: 60%
 
 .. clearpage::
 
@@ -81,10 +82,11 @@ Early Lives of Charlemagne
     .. figure:: images/charlemagne.jpeg
        :figclass: illustration
        :alt: Charlemagne statuette
+       :figwidth: 60%
 
        :lg:`Charlemagne`
 
-       From a bonze statuette in the Musée Carnavalet. Paris
+       From a bronze statuette in the Musée Carnavalet. Paris
     
     .. vfill::
 
@@ -433,49 +435,52 @@ He then sent his son back to Aquitania, and himself, though broken with old age,
 
     This disposition and arrangement he made and drew up in presence of the bishops, abbots and counts, who could then be present and whose names are here written out.
 
-    +------------------------------+
-    | *Bishops*                    |
-    +================+=============+
-    | Hildibald      | John        |
-    +----------------+-------------+
-    | Richolf        | Theodolf    |
-    +----------------+-------------+
-    | Arno           | Jesse       |
-    +----------------+-------------+
-    | Wolphar        | Heito       |
-    +----------------+-------------+
-    | Bernoin        | Waltgaud    |
-    +----------------+-------------+
-    | Laidrad        |             |
-    +----------------+-------------+
+    .. table:: Bishops
+       :hrules: none
 
-    +----------------+-------------+
-    | *Abbots*                     |
-    +================+=============+
-    | Fridugisius    | Engilbert   |
-    +----------------+-------------+
-    | Adalung        | Irmin       |
-    +----------------+-------------+
+       +----------------+-------------+
+       | Hildibald      | John        |
+       +----------------+-------------+
+       | Richolf        | Theodolf    |
+       +----------------+-------------+
+       | Arno           | Jesse       |
+       +----------------+-------------+
+       | Wolphar        | Heito       |
+       +----------------+-------------+
+       | Bernoin        | Waltgaud    |
+       +----------------+-------------+
+       | Laidrad        |             |
+       +----------------+-------------+
 
-    +----------------+-------------+
-    | *Counts*                     |
-    +================+=============+
-    | Walatho        | Rihwin      |
-    +----------------+-------------+
-    | Meginher       | Edo         |
-    +----------------+-------------+
-    | Otolf          | Ercangar    |
-    +----------------+-------------+
-    | Stephen        | Gerold      |
-    +----------------+-------------+
-    | Unruoc         | Bero        |
-    +----------------+-------------+
-    | Barchard       | Hildigern   |
-    +----------------+-------------+
-    | Meginhard      | Roccolf     |
-    +----------------+-------------+
-    | Hatto          |             |
-    +----------------+-------------+
+    .. table:: Abbots
+       :hrules: none
+
+       +----------------+-------------+
+       | Fridugisius    | Engilbert   |
+       +----------------+-------------+
+       | Adalung        | Irmin       |
+       +----------------+-------------+
+
+    .. table:: Counts
+       :hrules: none
+
+       +----------------+-------------+
+       | Walatho        | Rihwin      |
+       +----------------+-------------+
+       | Meginher       | Edo         |
+       +----------------+-------------+
+       | Otolf          | Ercangar    |
+       +----------------+-------------+
+       | Stephen        | Gerold      |
+       +----------------+-------------+
+       | Unruoc         | Bero        |
+       +----------------+-------------+
+       | Barchard       | Hildigern   |
+       +----------------+-------------+
+       | Meginhard      | Roccolf     |
+       +----------------+-------------+
+       | Hatto          |             |
+       +----------------+-------------+
 
 [pg 56] His son Lewis, who by the designs of Providence succeeded him, inspected the aforesaid document, and carried out these arrangements with the greatest devotion immediately after his death.
 
@@ -758,8 +763,6 @@ NOTES
 .. cleardoublepage::
 
 [pg 161]
-
-.. footnotes::
 
 .. [1.1] Walafridus Strabo was abbot of a Frankish monastery from 842 to 849.
 
