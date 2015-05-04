@@ -218,8 +218,6 @@ His son Lewis, who by the designs of Providence succeeded him, inspected the afo
 
 [^4]: That is, though there are many who would be ready to write Charles’s life, Einhard thinks that he has peculiar qualifications for the task which make it obligatory on him to do so.
 
-[^5]: The Latin of Einhard’s Life is much superior to the general monkish Latin of his period.
-
 [^6]: This is King Childeric III, who was deposed in 751 by a National Council, with the approval of the Pope. Pippin the Short was then elected king, and crowned by Boniface. With Childeric the Merovingian dynasty ends, and gives place to the curiously-named Carolingian, of which Charlemagne was the greatest representative.
 
 [^7]: Einhard here makes a mistake. The Pope was not Stephen, who held the Papal See from 752 to 757, but Zacharias, who was Pope from 741 to 752. Einhard’s mistake is, perhaps, due to the fact that the decision of Zacharias was confirmed by his successor.
