@@ -5,8 +5,8 @@ Early Lives of Charlemagne
 ==========================
 
 :PG.Title: Early Lives of Charlemagne
-:PG.Id: 
-:PG.Released: 
+:PG.Id: 10001
+:PG.Released: 2015-05-05
 :PG.Rights: Public Domain
 :PG.Producer: Andrew Dunning
 :PG.Credits: Created from scans by Robarts Library, University of Toronto, available through the `Internet Archive <https://archive.org/details/earlylivesofchar00einh>`_.
@@ -45,9 +45,9 @@ Early Lives of Charlemagne
 
 .. topic:: Transcriber’s Note
 
-   Notes keyed to line numbers have been converted to footnotes, correcting their position as necessary. Minor emendations have been made to punctuation and spelling. Running heads and the publisher’s catalogue have been omitted.
+   The notes, keyed to line numbers in the source edition, have been converted to footnotes. Their position has been corrected as necessary. Minor emendations have been made to punctuation and spelling. Running heads and the publisher’s catalogue have been omitted.
 
-.. clearpage::
+.. cleardoublepage::
 
 .. container:: justify x-large white-space-pre-line
 
@@ -55,12 +55,19 @@ Early Lives of Charlemagne
 
 .. clearpage::
 
-.. \[pg i]
+[pg!i]
 
-.. figure:: images/kings-classics.jpeg
-   :figclass: illustration
-   :alt: The King’s Classics
-   :figwidth: 60%
+.. container:: center
+
+    .. vfill::
+
+    .. figure:: images/kings-classics.jpeg
+       :figclass: illustration
+       :alt: The King’s Classics
+       :figwidth: 60%
+       
+    .. vfill::
+       
 
 .. clearpage::
 
@@ -94,7 +101,7 @@ Early Lives of Charlemagne
 
 [pg vii]
 
-.. container:: titlepage justify white-space-pre-line
+.. container:: titlepage justify white-space-pre-line noindent
 
     :xxl:`EARLY LIVES OF`
     :xxl:`CHARLEMAGNE BY`
@@ -117,15 +124,17 @@ Early Lives of Charlemagne
 .. container:: verso center small-caps white-space-pre-line
 
     .. vfill::
+    
+    .. epigraph::
 
-    A lui finit la dissolution de l’ancien
-    monde, à lui commence l’édification
-    du monde moderne.
+       A lui finit la dissolution de l’ancien
+       monde, à lui commence l’édification
+       du monde moderne.
 
-    .. class:: right
-
-        :sc:`Lavallée`
-
+       .. class:: right
+   
+          :sc:`Lavallée`
+   
     .. vfill::
 
 .. clearpage::
