@@ -5,8 +5,8 @@ Early Lives of Charlemagne
 ==========================
 
 :PG.Title: Early Lives of Charlemagne
-:PG.Id: 10001
-:PG.Released: 2015-05-05
+:PG.Id: 48870
+:PG.Released: 2015-05-03
 :PG.Rights: Public Domain
 :PG.Producer: Andrew Dunning
 :PG.Credits: Created from scans by Robarts Library, University of Toronto, available through the `Internet Archive <https://archive.org/details/earlylivesofchar00einh>`_.
